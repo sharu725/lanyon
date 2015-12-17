@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ನಲ್ಲಿಕಾಯಿ ಅಂಗಳದ ಪರಿಚಯ
+author: sharathdt
 ---
 
 ##ಏನಿದು ನಲ್ಲಿಕಾಯಿ?
