@@ -15,16 +15,16 @@ layout: default
 		<div style="display:flex; padding-top:12px;"><img src="{{ author.gravatar }}">
                 <div  class="author" style="margin-top:20px; margin-left: 20px;">{{ author.display_name }}<br />
                             <div style="margin-left:5px;"> 
-                                    <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square"></i></a>
-                                    <a href="{{ author.twitter }}" ><i class="fa fa-twitter-square"></i></a>
-                                    <a href="{{ author.email }}" ><i class="fa fa-envelope-square"></i></a>
+                                    <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square fa-3x"></i></a>
+                                    <a href="{{ author.twitter }}" ><i class="fa fa-twitter-square fa-3x"></i></a>
+                                    <a href="{{ author.email }}" ><i class="fa fa-envelope-square fa-3x"></i></a>
                             </div>
                 </div>
 	
         </div>
         
 <div class="related">
-  <h2>ಇದೆ ತರಹದ ಅಂಕಣಗಳು</h2> 
+  <h2>ಇದೇ ತರಹದ ಅಂಕಣಗಳು</h2> 
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
