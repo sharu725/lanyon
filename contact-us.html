@@ -1,0 +1,182 @@
+---
+layout: default
+title:
+---
+
+<section class="container">
+    <h1 class="title">Contact Me</h1>
+    <form id="form" class="form" action="#" method="get">
+        <ul>
+            <li>
+                <label for="name">Your Name:</label>
+                <input type="text" placeholder="Your Name" id="name" name="name" tabindex="1"/>
+            </li>
+            <li>
+                <label for="email">Your Email:</label>
+                <input type="email" placeholder="Your Email" id="email" name="email" tabindex="2"/>
+            </li>
+            <li>
+                <label for="message">Message:</label>
+                <textarea placeholder="Message…" id="message" name="message" tabindex="3"></textarea>
+            </li>
+        </ul>
+        <input type="submit" value="Send Message" id="submit"/>
+    </form>
+</section>
+
+<style>
+@import "compass/css3";
+
+*,*:after,*:before{
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+-ms-box-sizing:border-box;
+box-sizing:border-box;
+
+}
+
+body{
+background: #EAEDF1;
+  font-family: verdana;
+}
+
+section{
+max-width:25em;
+margin:0 auto;
+  
+}
+
+ul{
+margin:0;
+  padding: 0;
+  list-style-type:none;
+}
+li{
+position: relative;
+}
+h1{
+display:block;
+text-align: center;
+background: #323A45;
+color:white;
+  margin:0;
+    padding: 0.75em 0;
+  font-weight: normal;
+  border-radius:5px 5px 0 0;
+}
+
+form{
+  border-radius:0 0 5px 5px;
+  border:1px solid #ccc;
+  border-top: none;
+  background: #fff;
+  
+}
+
+ul li:not(:last-child){
+display:block;
+  border-bottom:1px solid #ccc;
+  margin-bottom: 1em;
+}
+
+label{
+display:block;
+  font-size: .8125em; /* 13/16 */
+    position: absolute;
+    top: 1.6em;
+    left: 1.4em;
+    color: #f1773b;
+    opacity: 1;
+  transition:top 0.4s ease, opacity 0.6s ease , color 0.4s ease;
+}
+
+input,textarea{
+  display:block;
+width:100%;
+  height:100%;
+ border:0;
+  outline:none;
+  padding:2.25em 1em 1em;
+  font-size: 1.2em;
+  
+}
+
+textarea{
+height:16em;
+  resize:none;
+  font-size: 1.2em;
+  font-family: verdana;
+  padding-left: 0.85em;
+}
+input[type="submit"]{
+  display:block;
+background:  #f1773b;
+  padding: 1em;
+  color:white;
+  text-transform: uppercase;
+  cursor:pointer;
+}
+
+.js-hide-label label{
+opacity:0;
+  top:1.8em;
+}
+
+.js-unhighlight-label label{
+color:#333;
+}
+
+.js-highlight-label label{
+color:#f1773b;
+}
+
+
+
+</style>
+
+<script>
+$(document).ready(function(){
+  
+  //Hiding Labels Initially
+  $('form li').each(function(){
+    $(this).addClass('js-hide-label');
+  });
+  
+  //Now adding and removing classes on Events - keyup,blur,focus
+  $('form li').find('input,textarea').on('keyup blur focus',function(e) {
+    
+      var $this = $(this),
+          $parent = $this.parent();
+      
+      if(e.type=='keyup') {
+          if($this.val()==''){
+            $parent.addClass('js-hide-label');
+          }
+          else{
+            $parent.removeClass('js-hide-label') ;
+          }
+      }
+    else if(e.type=='blur'){
+      if($this.val()==''){
+        $parent.addClass('js-hide-label');
+      }
+      else{
+        $parent.removeClass('js-hide-label , js-highlight-label').addClass('js-unhighlight-label');
+      }
+    }
+    
+      else if(e.type=='focus'){
+        
+        if($this.val()==''){
+          $parent.addClass('js-hide-label');
+        }
+        else{
+        $parent.addClass('js-highlight-label');
+        }
+        
+      }
+    
+  });
+  
+});
+</script>
