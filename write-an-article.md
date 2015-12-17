@@ -9,6 +9,6 @@ title:  write an article
   <!-- all your input fields here.... -->
   <input  type="text" name="ಹೆಸರು">
   <input  type='email' name='ಇಮೇಲ್' />
-  <textarea   name='ಲೇಖನ' >ನಿಮ್ಮ ಬರಹ ಇಲ್ಲಿ ಹಚ್ಚಿರಿ<textarea/>
+  <textarea  name='ಲೇಖನ'>ನಿಮ್ಮ ಬರಹ ಇಲ್ಲಿ ಹಚ್ಚಿರಿ<textarea/>
   <input type='submit' value='ಸಲ್ಲಿಸಿ' />
 </form>
