@@ -13,12 +13,14 @@ layout: default
 	<div>
 		<img src="{{ author.gravatar }}">
 		<span class="author">{{ author.display_name }}</span>
+        <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square"></i></a>
+        <a href="{{ author.twitter }}" ><i class="fa fa-twitter-square"></i></a>
 	</div>
 	
 </div>
 
 <div class="related">
-  <h2>ಇದೆ ತರಹದ ಅಂಕಣಗಳು</h2>
+  <h2>ಇದೆ ತರಹದ ಅಂಕಣಗಳು</h2> 
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
