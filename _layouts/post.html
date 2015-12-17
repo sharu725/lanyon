@@ -12,10 +12,12 @@ layout: default
 
 	<div>
         <h4>ಇದನ್ನ ಬರೆದವರು</h4>
-		<img src="{{ author.gravatar }}">
+		<span><img src="{{ author.gravatar }}">
 		<span class="author">{{ author.display_name }}</span>
-        <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square"></i></a>
+        
+        <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square"></i></a><br />
         <a href="{{ author.twitter }}" ><i class="fa fa-twitter-square"></i></a>
+        </span>
 	</div>
 	
 </div>
