@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: ಸಂಗ್ರಹ
 ---
 <section id="archive">
   <h2>This year's posts</h2>
