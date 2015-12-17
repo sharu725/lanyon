@@ -13,13 +13,14 @@ layout: default
 	<div>
         <h2 >ಇದನ್ನ ಬರೆದವರು</h2>
 		<div style="display:flex; padding-top:12px;"><img src="{{ author.gravatar }}">
-		<div  class="author" style="margin-top:20px; margin-left: 20px;">{{ author.display_name }}</div><br />
-        <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square"></i></a><br />
-        <a href="{{ author.twitter }}" ><i class="fa fa-twitter-square"></i></a>
-        
-	</div>
+                <div  class="author" style="margin-top:20px; margin-left: 20px;">{{ author.display_name }}<br />
+                            <div style="margin-left:5px;"> 
+                                    <a href="{{ author.facebook }}" ><i class="fa fa-facebook-square"></i></a>
+                                    <a href="{{ author.twitter }}" ><i class="fa fa-twitter-square"></i></a>
+                            </div>
+                </div>
 	
-</div>
+        </div>
 
 <div class="related">
   <h2>ಇದೆ ತರಹದ ಅಂಕಣಗಳು</h2> 
