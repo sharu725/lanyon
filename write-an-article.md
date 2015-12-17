@@ -7,6 +7,8 @@ title:  write an article
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='/' />
   <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
+  <input type="text" name="ಹೆಸರು">
+  <input type='email' name='ಇಮೇಲ್' />
+  <input type='text-area' name='ಲೇಖನ' />
+  <input type='submit' value='ಸಲ್ಲಿಸಿ' />
 </form>
