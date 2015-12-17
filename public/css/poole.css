@@ -402,6 +402,7 @@ a.pagination-item:hover {
 }
 
 img {
-       width: 100%;
+       
+    align="middle";
     
     }
