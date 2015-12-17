@@ -404,5 +404,8 @@ a.pagination-item:hover {
 img {
        
     align="middle";
+     max-width: 100%;
+    height: auto;
+    width: auto\9;
     
     }
