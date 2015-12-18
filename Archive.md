@@ -12,11 +12,11 @@ title: ಸಂಗ್ರಹ
   {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
   {% if year != nyear %}
   </ul>
-  <h2>{{ post.date | date: '%Y' }} </h2>
+  <h2>{{ post.date | date: '%Y' }}</h2>
   <ul class="past">
   {% endif %}
   {% endunless %}
-    <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><time>{{ post.date | date:"%d %b" }}</time>&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
   </ul>
 </section>
