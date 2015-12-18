@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-question-circle"></i> ಪರಿಚಯ
+title: ಪರಿಚಯ
 ---
 
 [ನಲ್ಲಿಕಾಯಿ ಪಾಡ್ಕ್ಯಾಸ್ಟ್](http://nallikayi.com) ನಲ್ಲಿ ಕೇವಲ ಧ್ವನಿ ಕೇಳುವ ಅವಕಾಶ ಇತ್ತು, ಆದರೆ ನಲ್ಲಿಕಾಯಿ ಅಂಗಳದಲ್ಲಿ ಬರಹಗಳನ್ನೂ ಓದಬಹುದು.
