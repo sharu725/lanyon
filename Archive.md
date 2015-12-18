@@ -3,7 +3,7 @@ layout: default
 title: ಸಂಗ್ರಹ
 ---
 <section id="archive">
-  <h2><i class="fa fa-leanpub fa-3x"></i> This year's posts</h2>
+  <h2><i class="fa fa-leanpub fa-2x"></i> This year's posts</h2>
 {% for post in site.posts %}
   {% unless post.next %}
   <ul class="this">
