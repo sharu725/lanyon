@@ -22,6 +22,8 @@ layout: default
                 </div>
 	
         </div>  
+        <hr class="style15">
+        
         {% include  disqus.html %}
 <div class="related">
   <h2>ಇದೇ ತರಹದ ಅಂಕಣಗಳು</h2> 
@@ -38,3 +40,21 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+ <style>     
+        hr.style15 {
+	border-top: 4px double #8c8b8b;
+	text-align: center;
+}
+hr.style15:after {
+	content: '\002665';
+	display: inline-block;
+	position: relative;
+	top: -15px;
+	padding: 0 10px;
+	background: #f0f0f0;
+	color: #8c8b8b;
+	font-size: 18px;
+}
+        
+        </style>  
