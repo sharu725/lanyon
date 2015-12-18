@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ಸಂಗ್ರಹ
 ---
 <section id="archive">
