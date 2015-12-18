@@ -3,7 +3,7 @@ layout: post
 title: ಹೆಂಡ್ತಿಗೊಂದು ಪ್ರೇಮ ಪತ್ರ!
 author: srinidivn
 ---
-![Letter to lovely wife]({{ baseurl }}public/img/articles-nallikayi-com-a-letter-to-lovely-wife.jpg)
+![Letter to lovely wife]({{ baseurl }}public/img/articles-nallikayi-com-a-letter-to-lovely-wife.jpeg)
 
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>ಪ್ರೀತಿಯ ಹೆಂಡ್ತಿ...!
 
