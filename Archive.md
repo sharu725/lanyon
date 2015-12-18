@@ -12,7 +12,7 @@ title: ಸಂಗ್ರಹ
   {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
   {% if year != nyear %}
   </ul>
-  <h2>{{ post.date | date: '%Y' }}</h2>
+  <h2>{{ post.date | date: '%Y' }} </h2>
   <ul class="past">
   {% endif %}
   {% endunless %}
