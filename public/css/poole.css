@@ -432,3 +432,13 @@ hr.style15:after {
 	color: #D2527F;
 	font-size: 25px;
 }
+.thanks {
+    width: 30%;
+    margin: 0 auto;
+    border-width: 1px;
+    background-color: beige;
+}
+
+.fa-thumbs-up {
+    color:forestgreen;
+}
