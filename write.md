@@ -19,7 +19,7 @@ heegeye = ಹೀಗೆಯೆ; <br />hIgeye = ಹೀಗೆಯೆ;<br />
 
 sumxsummane = ಸುಮ್‍ಸುಮ್ಮನೆ;<br />
 
-oMdaanoMdu = ಒಂದಾನೊಂದು; oMdAnoMdu = ಒಂದಾನೊಂದು;<br />
+oMdaanoMdu = ಒಂದಾನೊಂದು; <br />oMdAnoMdu = ಒಂದಾನೊಂದು;<br />
 
 kaaladalli = ಕಾಲದಲ್ಲಿ;<br />
 
