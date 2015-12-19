@@ -63,6 +63,7 @@ muMdEnaayitu? Iga yakSha prashne = ಮುಂದೇನಾಯಿತು? ಈಗ ಯ
 
 
 
+
 <a href="http://www.kannadaslate.com/" >ಇ-ಸ್ಲೇಟ್</a>ಗೆ ಧನ್ಯವಾದಗಳು. 
 
 </div>
