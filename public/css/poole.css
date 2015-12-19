@@ -433,15 +433,20 @@ hr.style15:after {
 	font-size: 25px;
 }
 .thanks {
-    width: 60%;
-    margin: 0 auto;
-    border-width: 1px;
+    width: 90%;
+    margin: 0px auto;
+    padding: 8px;
+    border-width: 0px;
     background-color: beige;
-    border-radius: 5px;
+    border-radius: 11px;
     }
 
 .fa-thumbs-up {
     color:#1BBC9B;
-    margin-right: 10px;
-    
+        
+}
+
+.thum {
+    width: 30%;
+    margin: 0 auto;
 }
