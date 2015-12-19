@@ -107,5 +107,5 @@ author: bharathibv
 
 (image credits - <a rel="nofollow" href="https://storybird.com/members/nidhi/">nidhi</a>
 
-<a target="_blank" rel="nofollow" href="https://www.sapnaonline.com/books/saasive-tandavalu-9370225">ಭಾರತಿಯವರ ಪುಸ್ತಕ 'ಸಾಸಿವೆ ತಂದವಳು' ಕೊಳ್ಳಿ</a>
+<a target="_blank" rel="nofollow" href="https://www.sapnaonline.com/books/saasive-tandavalu-9370225">ಭಾರತಿಯವರ ಪುಸ್ತಕ 'ಸಾಸಿವೆ ತಂದವಳು' ಕೊಳ್ಳಿ</a><br />
 <a target="_blank" rel="nofollow" href="http://www.chukkubukku.com/sasive-tandavalu">ಪುಸ್ತಕದ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ</a>
