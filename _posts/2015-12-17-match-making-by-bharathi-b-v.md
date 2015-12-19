@@ -105,6 +105,7 @@ author: bharathibv
 
 ಇನಾಂದಾರರ ‘ಯಯಾತಿ’ ಕಾದಂಬರಿಯಲ್ಲಿ ಒಂದು ಮಾತಿದೆ – **ಬಾಲ್ಯದಲ್ಲಿ ಗೊತ್ತಿರುವ ಒಂದೇ ಕಾಲವೆಂದರೆ ಅದು ವರ್ತಮಾನ** ಎಂದು... ಎಷ್ಟು ಸತ್ಯ!
 
-(image credits - [nidhi](https://storybird.com/members/nidhi/))
+(image credits - <a rel="nofollow" href="https://storybird.com/members/nidhi/">nidhi</a>
 
-[ಭಾರತಿಯವರ ಪುಸ್ತಕ 'ಸಾಸಿವೆ ತಂದವಳು' ಕೊಳ್ಳಿ](https://www.sapnaonline.com/books/saasive-tandavalu-9370225)
+<a target="_blank" rel="nofollow" href="https://www.sapnaonline.com/books/saasive-tandavalu-9370225">ಭಾರತಿಯವರ ಪುಸ್ತಕ 'ಸಾಸಿವೆ ತಂದವಳು' ಕೊಳ್ಳಿ</a>
+<a target="_blank" rel="nofollow" href="http://www.chukkubukku.com/sasive-tandavalu">ಪುಸ್ತಕದ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ</a>

@@ -33,4 +33,4 @@ author: srinidivn
 
 **ನಿನ್ನವ...!**
 
-[ಶ್ರೀನಿಧಿಯ ಬ್ಲಾಗ್](http://maretakanasugalu.blogspot.in/2015/09/blog-post_20.html)
+<a rel="nofollow" href="http://maretakanasugalu.blogspot.in/2015/09/blog-post_20.html">ಶ್ರೀನಿಧಿಯ ಬ್ಲಾಗ್</a>
