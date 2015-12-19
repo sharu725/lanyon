@@ -15,7 +15,7 @@ naanu = ನಾನು;<br /> nAnu = ನಾನು;<br />
 
 avaLu = ಅವಳು;<br />
 
-heegeye = ಹೀಗೆಯೆ; hIgeye = ಹೀಗೆಯೆ;<br />
+heegeye = ಹೀಗೆಯೆ; <br />hIgeye = ಹೀಗೆಯೆ;<br />
 
 sumxsummane = ಸುಮ್‍ಸುಮ್ಮನೆ;<br />
 
