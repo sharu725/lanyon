@@ -46,7 +46,7 @@ manmatha shooT maaDida = ಮನ್ಮಥ ಶೂಟ್ ಮಾಡಿದ;<br />
 muMdEnaayitu? Iga yakSha prashne = ಮುಂದೇನಾಯಿತು? ಈಗ ಯಕ್ಷ ಪ್ರಶ್ನೆ;
 
 
-
+<br />
 
 <a href="http://www.kannadaslate.com/" >ಇ-ಸ್ಲೇಟ್</a>ಗೆ ಧನ್ಯವಾದಗಳು. 
 
