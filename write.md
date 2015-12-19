@@ -11,53 +11,37 @@ title: ಬರೆಯಿರಿ
 <br><a href="http://www.kannadaslate.com/over_help.htm" target="_blank">ಜಾಸ್ತಿ ಸಹಾಯ</a><br>
 
 
-naanu = ನಾನು; nAnu = ನಾನು;
+naanu = ನಾನು; nAnu = ನಾನು;<br />
 
+avaLu = ಅವಳು;<br />
 
-avaLu = ಅವಳು;
+heegeye = ಹೀಗೆಯೆ; hIgeye = ಹೀಗೆಯೆ;<br />
 
+sumxsummane = ಸುಮ್‍ಸುಮ್ಮನೆ;<br />
 
-heegeye = ಹೀಗೆಯೆ; hIgeye = ಹೀಗೆಯೆ;
+oMdaanoMdu = ಒಂದಾನೊಂದು; oMdAnoMdu = ಒಂದಾನೊಂದು;<br />
 
+kaaladalli = ಕಾಲದಲ್ಲಿ;<br />
 
-sumxsummane = ಸುಮ್‍ಸುಮ್ಮನೆ;
+kallubaMDegaLa = ಕಲ್ಲುಬಂಡೆಗಳ;<br />
 
+praaceena kaalada = ಪ್ರಾಚೀನ ಕಾಲದ;<br />
 
-oMdaanoMdu = ಒಂದಾನೊಂದು; oMdAnoMdu = ಒಂದಾನೊಂದು;
+kOTe madhyada = ಕೋಟೆ ಮಧ್ಯದ;<br />
 
+prakRti maDila = ಪ್ರಕೃತಿ ಮಡಿಲ;<br />
 
-kaaladalli = ಕಾಲದಲ್ಲಿ;
+bhOrgareva tuMgaa nadi teeradalli = ಭೋರ್ಗರೆವ ತುಂಗಾ ನದಿ ತೀರದಲ್ಲಿ;<br />
 
+prajNYegaLa daaTi = ಪ್ರಜ್ಞೆಗಳ ದಾಟಿ;<br />
 
-kallubaMDegaLa = ಕಲ್ಲುಬಂಡೆಗಳ;
+jNYaanada elle meeri = ಜ್ಞಾನದ ಎಲ್ಲೆ ಮೀರಿ;<br />
 
+paramaatmana dhyaanadalli = ಪರಮಾತ್ಮನ ಧ್ಯಾನದಲ್ಲಿ;<br />
 
-praaceena kaalada = ಪ್ರಾಚೀನ ಕಾಲದ;
+maimaretaaga saDan aagi = ಮೈಮರೆತಾಗ ಸಡನ್ ಆಗಿ;<br />
 
-
-kOTe madhyada = ಕೋಟೆ ಮಧ್ಯದ;
-
-
-prakRti maDila = ಪ್ರಕೃತಿ ಮಡಿಲ;
-
-
-bhOrgareva tuMgaa nadi teeradalli = ಭೋರ್ಗರೆವ ತುಂಗಾ ನದಿ ತೀರದಲ್ಲಿ;
-
-
-prajNYegaLa daaTi = ಪ್ರಜ್ಞೆಗಳ ದಾಟಿ;
-
-
-jNYaanada elle meeri = ಜ್ಞಾನದ ಎಲ್ಲೆ ಮೀರಿ;
-
-
-paramaatmana dhyaanadalli = ಪರಮಾತ್ಮನ ಧ್ಯಾನದಲ್ಲಿ;
-
-
-maimaretaaga saDan aagi = ಮೈಮರೆತಾಗ ಸಡನ್ ಆಗಿ;
-
-
-manmatha shooT maaDida = ಮನ್ಮಥ ಶೂಟ್ ಮಾಡಿದ;
-
+manmatha shooT maaDida = ಮನ್ಮಥ ಶೂಟ್ ಮಾಡಿದ;<br />
 
 muMdEnaayitu? Iga yakSha prashne = ಮುಂದೇನಾಯಿತು? ಈಗ ಯಕ್ಷ ಪ್ರಶ್ನೆ;
 
