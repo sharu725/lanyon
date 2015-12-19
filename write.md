@@ -13,35 +13,51 @@ title: ಬರೆಯಿರಿ
 
 naanu = ನಾನು; nAnu = ನಾನು;
 
+
 avaLu = ಅವಳು;
+
 
 heegeye = ಹೀಗೆಯೆ; hIgeye = ಹೀಗೆಯೆ;
 
+
 sumxsummane = ಸುಮ್‍ಸುಮ್ಮನೆ;
+
 
 oMdaanoMdu = ಒಂದಾನೊಂದು; oMdAnoMdu = ಒಂದಾನೊಂದು;
 
+
 kaaladalli = ಕಾಲದಲ್ಲಿ;
+
 
 kallubaMDegaLa = ಕಲ್ಲುಬಂಡೆಗಳ;
 
+
 praaceena kaalada = ಪ್ರಾಚೀನ ಕಾಲದ;
+
 
 kOTe madhyada = ಕೋಟೆ ಮಧ್ಯದ;
 
+
 prakRti maDila = ಪ್ರಕೃತಿ ಮಡಿಲ;
+
 
 bhOrgareva tuMgaa nadi teeradalli = ಭೋರ್ಗರೆವ ತುಂಗಾ ನದಿ ತೀರದಲ್ಲಿ;
 
+
 prajNYegaLa daaTi = ಪ್ರಜ್ಞೆಗಳ ದಾಟಿ;
+
 
 jNYaanada elle meeri = ಜ್ಞಾನದ ಎಲ್ಲೆ ಮೀರಿ;
 
+
 paramaatmana dhyaanadalli = ಪರಮಾತ್ಮನ ಧ್ಯಾನದಲ್ಲಿ;
+
 
 maimaretaaga saDan aagi = ಮೈಮರೆತಾಗ ಸಡನ್ ಆಗಿ;
 
+
 manmatha shooT maaDida = ಮನ್ಮಥ ಶೂಟ್ ಮಾಡಿದ;
+
 
 muMdEnaayitu? Iga yakSha prashne = ಮುಂದೇನಾಯಿತು? ಈಗ ಯಕ್ಷ ಪ್ರಶ್ನೆ;
 
