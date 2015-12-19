@@ -48,6 +48,6 @@ muMdEnaayitu? Iga yakSha prashne = ಮುಂದೇನಾಯಿತು? ಈಗ ಯ
 
 <br /><br />
 
-<a href="http://www.kannadaslate.com/" >ಇ-ಸ್ಲೇಟ್</a>ಗೆ ಧನ್ಯವಾದಗಳು. 
+ಇದನ್ನು ಒದಗಿಸಿದ<a href="http://www.kannadaslate.com/" > ಇ-ಸ್ಲೇಟ್</a>ಗೆ ಧನ್ಯವಾದಗಳು. 
 
 </div>
