@@ -438,8 +438,9 @@ hr.style15:after {
     border-width: 1px;
     background-color: beige;
     border-radius: 5px;
-}
+    }
 
 .fa-thumbs-up {
     color:#1BBC9B;
+    margin-right: 10px;
 }
