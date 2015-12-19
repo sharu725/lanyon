@@ -11,12 +11,7 @@ title: ಬರೆಯಿರಿ
 <br><a href="http://www.kannadaslate.com/over_help.htm" target="_blank">ಜಾಸ್ತಿ ಸಹಾಯ</a><br>
 
 
-|sdoigsogio|sghrghroi|
- ---------- ---------
-|naanu|     |ನಾನು|
-
-
-<br /> nAnu = ನಾನು;<br />
+naanu = ನಾನು;<br /> nAnu = ನಾನು;<br />
 
 avaLu = ಅವಳು;<br />
 
