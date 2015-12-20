@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ಧಾವ೦ತ
-author: samapaths
+author: sampaths
 ---
 ![Dhavanta by samapath sirimane - nallikayi articles]({{ baseurl }}/public/img/bus.jpg)
 
