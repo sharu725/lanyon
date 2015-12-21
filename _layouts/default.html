@@ -50,11 +50,15 @@ toggle.addEventListener('change', function () {
       document.body.style.color = "#BDC7C1";
     document.body.style.backgroundColor = "#232B2B";
       document.getElementById("togbtn").style.color = "#BDC7C1";
+      document.getElementByClassName("post").style.color = "#BDC7C1";
+      document.getElementByClassName("page").style.color = "#BDC7C1";
     
   } else {
      document.body.style.backgroundColor = "";
       document.body.style.color = "";
       document.getElementById("togbtn").style.color = "";
+      document.getElementByClassName("post").style.color = "";
+      document.getElementByClassName("page").style.color = "";
   }
 }); 
     
