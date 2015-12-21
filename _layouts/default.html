@@ -16,6 +16,10 @@
             <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
+            
+            <paper-toggle-button change="" id="togglepaper"><p id="togbtn">Night Mode</p></paper-toggle-button>
+            
+            
         </div>
       </div>
 
@@ -36,5 +40,24 @@
   ga('send', 'pageview');
 
 </script>
+      
+      <!-- Polymer Night Mode script -->
+    <script> 
+        
+        var toggle = document.querySelector("paper-toggle-button");
+toggle.addEventListener('change', function () {
+  if (this.checked) {
+      document.body.style.color = "#BDC7C1";
+    document.body.style.backgroundColor = "#232B2B";
+      document.getElementById("togbtn").style.color = "#BDC7C1";
+    
+  } else {
+     document.body.style.backgroundColor = "";
+      document.body.style.color = "";
+      document.getElementById("togbtn").style.color = "";
+  }
+}); 
+    
+    </script>
   </body>
 </html>

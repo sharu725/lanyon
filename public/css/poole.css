@@ -414,6 +414,7 @@ img {
 
     width: 100%;
     margin: 0 auto;
+    max-width: 100%;
 
 
 }
@@ -448,4 +449,13 @@ hr.style15:after {
 
 .thum {
    text-align: center;
+}
+
+paper-toggle-button#togglepaper {
+    float: right;
+  }
+
+p#togbtn {
+    font-weight: lighter;
+    font-size: 1rem;
 }
