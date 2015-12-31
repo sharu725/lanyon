@@ -38,6 +38,7 @@
 html,
 body {
   overflow-x: hidden;
+  border-top: 5px solid #37ba8a;
 }
 
 html {
