@@ -16,16 +16,6 @@
 
 </div>
 
-<style>
-
-#ss { 
-    display:flex;
-   }
-    
-
-    
-</style>
-
 
 <div id="fb-root"></div>
 <script>
@@ -39,19 +29,19 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-<script>
+<script async>
 function fbshareCurrentPage()
     {window.open("https://www.facebook.com/sharer/sharer.php?u="+escape(window.location.href)+"&t="+document.title, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false; }
 </script>
 
-<script>
+<script async>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 </script>
 
 
 
 <!-- Place this tag after the last share tag. -->
-<script type="text/javascript">
+<script async type="text/javascript">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
     po.src = 'https://apis.google.com/js/platform.js';
