@@ -11,4 +11,4 @@ author: sharathdt
 
 ಈ ನಂತರ ನಮ್ಮ ವೆಬ್‍ಸೈಟ್‍ನ ಎಲ್ಲಾ ಸಂಪರ್ಕಗಳೂ ಸಂಪೂರ್ಣ ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ. ನಿಶ್ಚಿಂತೆಯಿಂದ ನಲ್ಲಿಕಾಯಿ ಅಂಕಣವನ್ನು ಬಳಸಿ.
 
-<i class="fa fa-github-alt"></i>[ webJeda](http://webjeda.com)
+<a target="_blank" href="http://webjeda.com"><img src="/public/img/built%20by-webjeda.svg"></a>
