@@ -10,7 +10,9 @@ baseurl:          /lanyon/
 title:            ನಲ್ಲಿಕಾಯಿ
 tagline:          'ನಂತರದ ಸಿಹಿ'
 description:      '<a target="_blank" href="http://nallikayi.com">ನಲ್ಲಿಕಾಯಿ ಪಾಡ್ಕ್ಯಾಸ್ಟ್</a> ಕೇವಲ ಧ್ವನಿ ಮಾಧ್ಯಮಕ್ಕಾದರೆ, ಅಕ್ಷರಗಳ ಸಿಹಿ ಇಲ್ಲಿದೆ'
-url:  http://articles.nallikayi.com/            
+url:  https://articles.nallikayi.com
+enforce_ssl: www.articles.nallikayi.com
+
 name: ನಲ್ಲಿಕಾಯಿ
 
 
