@@ -41,20 +41,20 @@ input#lightswitch {
 
 
 
-input#lightswitch:checked + .wrap {
+input#lightswitch:checked + .body {
   background: #222;
 }
 
 
-input#lightswitch:checked + .wrap h1 {
+input#lightswitch:checked + .body h1 {
   color: #ddca7e;
 }
 
-input#lightswitch:checked + .wrap h2 {
+input#lightswitch:checked + .body h2 {
   color: #ddca7e;
 }
 
-input#lightswitch:checked + .wrap p {
+input#lightswitch:checked + .body p {
   color: #aaa;
 }
 
