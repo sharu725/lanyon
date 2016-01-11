@@ -42,7 +42,7 @@ input#lightswitch {
 
 
 input#lightswitch:checked + .body {
-  background: #222;
+  background-color: #222;
 }
 
 
