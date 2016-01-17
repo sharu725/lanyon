@@ -25,6 +25,8 @@ paginate:         5
 # Custom vars
 version:          0.8.5
 
+gems:
+  - jekyll-sitemap
 
 github:
   repo:           
