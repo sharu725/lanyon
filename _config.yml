@@ -1,8 +1,8 @@
 # Dependencies
-markdown:         kramdown
+markdown: kramdown
 
 # Permalinks
-permalink:          /:title
+permalink: /:title
 
 # Setup
 baseurl:          /lanyon/
@@ -27,9 +27,6 @@ version:          0.8.5
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-
-github:
-  repo:           
 
 authors:
       sharathdt:
