@@ -8,6 +8,7 @@ author: adarshk
 
 
 <i class="fa fa-quote-left fa fa-pull-left fa-border"></i>ಅನುದಿನದ ಹುಡುಕಾಟಕ್ಕೆ ಕೊನೆ ನನ್ನ ಅಂತ್ಯ
+
 ಅನುಗಾಲದ ಬೇಡಿಕೆಯ ಈಡೇರಿಸುವ ಅಂತ್ಯ
 
 ಸಾಗುವ ನದಿಯು ಸೇರುವ ಅಂತ್ಯ
