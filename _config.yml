@@ -1,12 +1,15 @@
+# Dependencies
+markdown: kramdown
+
 # Permalinks
 permalink: /:title
 
 # Setup
-baseurl:          /lanyon/
-title:            ನಲ್ಲಿಕಾಯಿ
-tagline:          'ನಂತರದ ಸಿಹಿ'
-description:      '<a target="_blank" href="http://nallikayi.com">ನಲ್ಲಿಕಾಯಿ ಪಾಡ್ಕ್ಯಾಸ್ಟ್</a> ಕೇವಲ ಧ್ವನಿ ಮಾಧ್ಯಮಕ್ಕಾದರೆ, ಅಕ್ಷರಗಳ ಸಿಹಿ ಇಲ್ಲಿದೆ'
-url:  https://articles.nallikayi.com
+baseurl: /lanyon/
+title: ನಲ್ಲಿಕಾಯಿ
+tagline: 'ನಂತರದ ಸಿಹಿ'
+description: '<a target="_blank" href="http://nallikayi.com">ನಲ್ಲಿಕಾಯಿ ಪಾಡ್ಕ್ಯಾಸ್ಟ್</a> ಕೇವಲ ಧ್ವನಿ ಮಾಧ್ಯಮಕ್ಕಾದರೆ, ಅಕ್ಷರಗಳ ಸಿಹಿ ಇಲ್ಲಿದೆ'
+url: https://articles.nallikayi.com
 enforce_ssl: www.articles.nallikayi.com
 
 name: ನಲ್ಲಿಕಾಯಿ
@@ -16,10 +19,10 @@ author:
   name:           'Sharath D T'
   url:            https://www.facebook.com/sharu725
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          0.8.5
+version: 0.8.5
 
 gems:
   - jekyll-sitemap
