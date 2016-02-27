@@ -19,15 +19,15 @@ baseurl: /lanyon/
 title: ನಲ್ಲಿಕಾಯಿ
 tagline: 'ನಂತರದ ಸಿಹಿ'
 description: '<a target="_blank" href="http://nallikayi.com">ನಲ್ಲಿಕಾಯಿ ಪಾಡ್ಕ್ಯಾಸ್ಟ್</a> ಕೇವಲ ಧ್ವನಿ ಮಾಧ್ಯಮಕ್ಕಾದರೆ, ಅಕ್ಷರಗಳ ಸಿಹಿ ಇಲ್ಲಿದೆ'
-url: https://articles.nallikayi.com
-enforce_ssl: www.articles.nallikayi.com
+url: "https://articles.nallikayi.com"
+enforce_ssl: "www.articles.nallikayi.com"
 
 name: ನಲ್ಲಿಕಾಯಿ
 
 
 author:
-  name:           'Sharath D T'
-  url:            https://www.facebook.com/sharu725
+  name: 'Sharath D T'
+  url: "https://www.facebook.com/sharu725"
 
 paginate: 5
 
@@ -43,27 +43,27 @@ authors:
       sharathdt:
         display_name: ಶರತ್ ಡಿ.ಟಿ
         gravatar: /public/img/sharathdt.jpeg
-        email: mailto:sharath.dt@gmail.com
+        email: "mailto:sharath.dt@gmail.com"
         web: http://webjeda.com/
-        facebook: https://www.facebook.com/sharu725
-        twitter: https://twitter.com/sharathdt
+        facebook: "https://www.facebook.com/sharu725
+        twitter: "https://twitter.com/sharathdt
         github: sharu725
 
       bharathibv:
         display_name: ಭಾರತಿ ಬಿ.ವಿ
         gravatar: /public/img/bharathi-bv.jpg
-        email: mailto:bvbkoll@gmail.com
+        email: "mailto:bvbkoll@gmail.com"
         web: 
-        facebook: https://www.facebook.com/bharathi.bv.5
+        facebook: "https://www.facebook.com/bharathi.bv.5
         twitter: 
         github: 
 
       srinidivn:
         display_name: ಶ್ರೀನಿಧಿ ವಿ.ಎನ್
         gravatar: /public/img/Srinidhi-vn.jpg
-        email: mailto:srinidhivn93@gmail.com
+        email: "mailto:srinidhivn93@gmail.com"
         web: 
-        facebook: https://www.facebook.com/srinidhi.vn
+        facebook: "https://www.facebook.com/srinidhi.vn
         twitter: 
         github:    
 
@@ -71,9 +71,9 @@ authors:
       sampaths:
         display_name: ಸಂಪತ್ ಸಿರಿಮನೆ
         gravatar: /public/img/samapths.jpg
-        email: mailto:sirimanesampath@gmail.com
+        email: "mailto:sirimanesampath@gmail.com"
         web: 
-        facebook: https://www.facebook.com/sirimane.sampath
+        facebook: "https://www.facebook.com/sirimane.sampath"
         twitter: 
         github:    
     
@@ -81,13 +81,13 @@ authors:
       adarshk:
         display_name: ಆದರ್ಶ್ ಕನ್ನಡ
         gravatar: /public/img/adarshk.jpg
-        email: mailto:adarshkannada@outlook.com
-        facebook: https://www.facebook.com/adarsh.kannada
-        twitter: https://twitter.com/adarshkannada
+        email: "mailto:adarshkannada@outlook.com"
+        facebook: "https://www.facebook.com/adarsh.kannada"
+        twitter: "https://twitter.com/adarshkannada"
     
      prajwalkumar:
         display_name: ಪ್ರಜ್ವಲ್ ಕುಮಾರ್
         gravatar: /public/img/prajwalkumar.jpg
-        email: mailto:pajju.sush@gmail.com
-        facebook: https://www.facebook.com/prajwal.k.rao
-        twitter: https://twitter.com/prajwaltweets
+        email: "mailto:pajju.sush@gmail.com"
+        facebook: "https://www.facebook.com/prajwal.k.rao"
+        twitter: "https://twitter.com/prajwaltweets"
