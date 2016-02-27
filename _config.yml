@@ -34,7 +34,7 @@ github:
 authors:
       sharathdt:
         display_name: ಶರತ್ ಡಿ.ಟಿ
-        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/sharathdt.jpeg
+        gravatar: /public/img/sharathdt.jpeg
         email: mailto:sharath.dt@gmail.com
         web: http://webjeda.com/
         facebook: https://www.facebook.com/sharu725
@@ -43,7 +43,7 @@ authors:
 
       bharathibv:
         display_name: ಭಾರತಿ ಬಿ.ವಿ
-        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/bharathi-bv.jpg
+        gravatar: /public/img/bharathi-bv.jpg
         email: mailto:bvbkoll@gmail.com
         web: 
         facebook: https://www.facebook.com/bharathi.bv.5
@@ -52,7 +52,7 @@ authors:
 
       srinidivn:
         display_name: ಶ್ರೀನಿಧಿ ವಿ.ಎನ್
-        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/Srinidhi-vn.jpg
+        gravatar: /public/img/Srinidhi-vn.jpg
         email: mailto:srinidhivn93@gmail.com
         web: 
         facebook: https://www.facebook.com/srinidhi.vn
@@ -62,7 +62,7 @@ authors:
 
       sampaths:
         display_name: ಸಂಪತ್ ಸಿರಿಮನೆ
-        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/samapths.jpg
+        gravatar: /public/img/samapths.jpg
         email: mailto:sirimanesampath@gmail.com
         web: 
         facebook: https://www.facebook.com/sirimane.sampath
@@ -72,7 +72,14 @@ authors:
     
       adarshk:
         display_name: ಆದರ್ಶ್ ಕನ್ನಡ
-        gravatar: https://raw.githubusercontent.com/sharu725/lanyon/gh-pages/public/img/adarshk.jpg
+        gravatar: /public/img/adarshk.jpg
         email: mailto:adarshkannada@outlook.com
         facebook: https://www.facebook.com/adarsh.kannada
         twitter: https://twitter.com/adarshkannada
+    
+     prajwalkumar:
+        display_name: ಪ್ರಜ್ವಲ್ ಕುಮಾರ್
+        gravatar: /public/img/prajwalkumar.jpg
+        email: mailto:pajju.sush@gmail.com
+        facebook: https://www.facebook.com/prajwal.k.rao
+        twitter: https://twitter.com/prajwaltweets
