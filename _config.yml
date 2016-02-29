@@ -17,6 +17,16 @@ enforce_ssl: "www.articles.nallikayi.com"
 
 name: ನಲ್ಲಿಕಾಯಿ
 
+#compress.html
+compress_html:
+  clippings: [div, p, ul, td, h1, h2]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
 
 author:
   name: 'Sharath D T'
