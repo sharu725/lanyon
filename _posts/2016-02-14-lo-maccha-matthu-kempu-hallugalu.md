@@ -1,8 +1,9 @@
 ---
 layout: post
-title: ಲೋ ಮಚ್ಚಾ ಮತ್ತು ಕೆಂಪು ಹಲ್ಲುಗಳ
+title: ಲೋ ಮಚ್ಚಾ ಮತ್ತು ಕೆಂಪು ಹಲ್ಲುಗಳು
 author: prajwalkumar
 ---
+
 
 ![Lo maccha matthu kempu hallugaly by prajwal kumar]({{ baseurl }}/img/lo-maccha-matthu-kempu-hallugalu.jpg)
 
