@@ -11,3 +11,15 @@
   -ms-transition: all 1s ease;
   transition: all 1s ease;
 }
+
+#share-box {
+    margin-bottom: 2em;
+}
+
+
+
+#share-box-container {
+    margin-top: 2em;
+}
+
+
