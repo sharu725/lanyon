@@ -20,7 +20,7 @@ name: ನಲ್ಲಿಕಾಯಿ
 #compress.html
 compress_html:
   clippings: [div, p, ul, td, h1, h2]
-  comments: ["<!-- ", " -->"]
+  comments: []
   endings: [all]
   ignore:
     envs: [local]
