@@ -30,12 +30,12 @@
     width: 44%;
     display: inline-block;
     vertical-align: top;
-    margin: 1em;
+    margin-right: 1em;
     
 }
 
 @media screen and (max-width: 500px) {
-    .post {width: 98%; padding-right: 1rem;}
+    .post {width: 100%; padding-right: 1rem;}
 }
 
 
