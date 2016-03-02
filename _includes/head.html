@@ -4,24 +4,36 @@
     if ((host == window.location.host) && (window.location.protocol != "https:"))
         window.location.protocol = "https";
 </script>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="description" content="Article part of Nallikayi">
-    <meta name="keywords" content="nallikayi, nallikayi article, nallikayi articles">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="keywords" content="">
+
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+  <title>{% if page.title %}{{ page.title }} {% else %} {{ site.title }}</title>
   <link rel="shortcut icon" href="/public/logo.png">
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   <link rel="alternate" href="https://articles.nallikayi.com" hreflang="kn-in" />
+    <!-- Canonical -->
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
    
+  <!-- Open Graph -->
+ <meta property="og:locale" content="kn-IN">
+ <meta property="og:type" content="article">
+ <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+ <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<!--  <meta property="og:image" content="/assets/{{ page.image }}" /> -->
+ <meta property="og:site_name" content="Nallikayi Articles">
+ <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}">
+ 
+  	 <!-- Twitter Cards -->
+ <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+ <meta name="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}">
+ <meta name="twitter:site" content="@nallikayi" />
+ <meta name="twitter:creator" content="@sharathdt">
+ <meta name="twitter:card" content="summary">
+ 
 </head>
