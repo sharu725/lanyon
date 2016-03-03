@@ -7,7 +7,9 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
   <br />
- <input id="input-id" type="text" class="rating" data-size="lg" >
+  <label for="input-1" class="control-label">Rate This</label>
+<input id="input-1" class="rating rating-loading" data-min="0" data-max="5" data-step="1">
+
 </div>
 <hr />
 {% assign author = site.authors[page.author] %}
