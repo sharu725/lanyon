@@ -21,12 +21,12 @@ name: ನಲ್ಲಿಕಾಯಿ
 compress_html:
   clippings: [div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, style, li, ul, ol, time, main, script]
   comments: ["<!-- ", " -->"]
-  endings: [all]
+  endings: []
   ignore:
-    envs: [local]
+    envs: []
   blanklines: false
   profile: false
-  startings: [html, head, body]
+  startings: []
 
 author:
   name: 'Sharath D T'
