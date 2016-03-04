@@ -4,7 +4,7 @@ title: ಬರೆಯಿರಿ
 ---
 
 
-
+<p>ನಿಮ್ಮ ಲೇಖನವನ್ನು ಇಲ್ಲೇ ಬರೆಯಲು ಅನುಕೂಲವಾಗುವಂತೆ ನಲ್ಲಿಕಾಯಿ ಅಂಗಳದಲ್ಲಿ <strong>ಬರೆಯಿರಿ</strong> ಪುಟ ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ. ಇಲ್ಲಿ ಬರೆದ ಅಂಕಣವನ್ನು <strong>ಸಂಪರ್ಕಿಸಿ</strong> ಪುಟಕ್ಕೆ ಕಾಪಿ ಮಾಡಿ ಕಳುಹಿಸಿ.</p>
 
 <div>
 <script type="text/javascript" src="public/js/kannada.js"></script>
