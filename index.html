@@ -3,6 +3,35 @@ layout: default
 title: ಮನೆ
 ---
 <p style="display:none">ನಲ್ಲಿಕಾಯಿ ಪಾಡ್ಕ್ಯಾಸ್ಟ್ ನಲ್ಲಿ ಕೇವಲ ಧ್ವನಿ ಕೇಳುವ ಅವಕಾಶ ಇತ್ತು, ಆದರೆ ನಲ್ಲಿಕಾಯಿ ಅಂಗಳದಲ್ಲಿ ಬರಹಗಳನ್ನೂ ಓದಬಹುದು. ನಿಮ್ಗೂ ನಿಮ್ಮ ಬ್ಲಾಗ್ post ನಮ್ಮ ಬ್ಲಾಗ್‍ನಲ್ಲಿ ಕಾಣಿಸಬೇಕು ಅನ್ನೋ ಆಸೆ ಇದ್ರೆ, ದಯವಿಟ್ಟು submit ಮಾಡಿ. ತಕ್ಷಣ ಅಲ್ದೇ ಇದ್ರೂ, ನಿದಾನಕ್ಕೆ post ಮಾಡ್ತೀನಿ.</p>
+
+
+
+ <div id="mainbox">
+     {% for post in paginator.posts %} 
+       <a class="post-link-index" href="{{ post.url | prepend: site.url }}">
+          <div class="card">
+                <img alt="{{ post.title }}" class="post-image-index" itemprop="thumbnailUrl" src="/public/img/{{ post.img }}" width="300" height="auto" />
+                <div class="card-footer">
+                    <h6 class="post-index-title">{{ post.title }}</h6>
+                <p class="post-excerpt">{{ post.description | strip_html | truncate: 160 }}</p>
+               </div>
+     
+        </div> 
+     </a>
+      {% endfor %}   
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -17,7 +46,7 @@ title: ಮನೆ
     {{ post.content | strip_html | truncatewords:20}}
   </div>
   {% endfor %}
-</div>
+</div> -->
 
 <div class="pagination">
   {% if paginator.next_page %}

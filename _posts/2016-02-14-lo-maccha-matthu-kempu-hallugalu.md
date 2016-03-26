@@ -2,10 +2,12 @@
 layout: post
 title: ಲೋ ಮಚ್ಚಾ ಮತ್ತು ಕೆಂಪು ಹಲ್ಲುಗಳು
 author: prajwalkumar
+img: lo-maccha-matthu-kempu-hallugalu.jpg
+description: ಮೊನ್ನೆ ಬೆಳಿಗ್ಗೆ ಮುಂಚೆ 5:30 ರ ಸುಮಾರಿಗೆ ಮಲಗಿದವನಿಗೆ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಎಚ್ಚರವಾಯಿತು. ಕಾರಣ ಒಂದು ಕೆಟ್ಟ  ಕನಸು! ಆ ಕನಸಿಗೆ, ಎಚ್ಚರವಿರುವಾಗ ಇನ್ನಷ್ಟು ಯೋಚನೆಯನ್ನು ಬೆರೆಸಿ ಈ “ಲೋ ಮಚ್ಚಾ ಮತ್ತು ಕೆಂಪು ಹಲ್ಲುಗಳು” ಎಂಬ ಕಥೆಯನ್ನು ಬರೆಯಲು ಪ್ರಯತ್ನಿಸಿದ್ದೇನೆ. ಪುರಸೊತ್ತಿದ್ದರೆ ಒಮ್ಮೆ ಓದಿಬಿಡಿ !
 ---
 
 
-![Lo maccha matthu kempu hallugaly by prajwal kumar]({{ baseurl }}/img/lo-maccha-matthu-kempu-hallugalu.jpg)
+![Lo maccha matthu kempu hallugaly by prajwal kumar]({{ baseurl }}/public/img/lo-maccha-matthu-kempu-hallugalu.jpg)
 
 
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>ಮೊನ್ನೆ ಬೆಳಿಗ್ಗೆ ಮುಂಚೆ 5:30 ರ ಸುಮಾರಿಗೆ ಮಲಗಿದವನಿಗೆ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಎಚ್ಚರವಾಯಿತು. ಕಾರಣ ಒಂದು ಕೆಟ್ಟ  ಕನಸು! ಆ ಕನಸಿಗೆ, ಎಚ್ಚರವಿರುವಾಗ ಇನ್ನಷ್ಟು ಯೋಚನೆಯನ್ನು ಬೆರೆಸಿ ಈ “ಲೋ ಮಚ್ಚಾ ಮತ್ತು ಕೆಂಪು ಹಲ್ಲುಗಳು” ಎಂಬ ಕಥೆಯನ್ನು ಬರೆಯಲು ಪ್ರಯತ್ನಿಸಿದ್ದೇನೆ. ಪುರಸೊತ್ತಿದ್ದರೆ ಒಮ್ಮೆ ಓದಿಬಿಡಿ !

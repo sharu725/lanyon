@@ -2,6 +2,8 @@
 layout: post
 title: ಸೂರ್ಯಾಸ್ತಮಾನ
 author: adarshk
+img: mountain-articles.nallikayi.com.jpg
+description: ಮಧ್ಯಾಹ್ನ ಊಟ ಮಾಡಿ ತೀರ್ಥಹಳ್ಳಿಯಿಂದ ಹೊರಟಾಗ ಸುಮಾರು ಒಂದು ಘಂಟೆ ಆಗಿತ್ತು. ಜನರನ್ನು ದಾರಿ ಕೇಳಿ ಒಂದಷ್ಟು ದೂರ ನಡೆದು ದಾರಿಯಲ್ಲಿ ಬಂದ ಲಾರಿಯನ್ನು ಹತ್ತಿ ಮತ್ತಷ್ಟು ದೂರ ಬಂದು, ಇಳಿದು, ಮತ್ತೆ ನಡೆಯುತ್ತಾ ಹೋಗುವಾಗ ಸಿಕ್ಕ ಆಟೋ ಹತ್ತಿ ಆಗುಂಬೆ ತಲುಪಿದಾಗ ಮಧ್ಯಾಹ್ನ ಸುಮಾರು ಎರೆಡೂವರೆ ಆಗಿತ್ತು.
 ---
 
 ![suryastamana by adarshk - nallikayi articles]({{ baseurl }}/public/img/mountain-articles.nallikayi.com.jpg)

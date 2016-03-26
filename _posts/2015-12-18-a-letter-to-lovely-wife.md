@@ -2,6 +2,8 @@
 layout: post
 title: ಹೆಂಡ್ತಿಗೊಂದು ಪ್ರೇಮ ಪತ್ರ!
 author: srinidivn
+img: articles-nallikayi-com-a-letter-to-lovely-wife.jpg
+description: ಬಟ್ಟೆ ಒಗ್ಯೋಕೆ ಮೊದ್ಲು, ನನ್ನ ಶರ್ಟ್ ಜೇಬಲ್ಲಿ ಎನಾದ್ರೂ ಇದ್ಯಾ ಅಂತ ನೀ ನೋಡ್ಬೇಕಾದ್ರೆ,ನಿನ್ನ ಕೈಗೆ ಸಿಗುವಂತೆ ಈ ಕಾಗದ ನಿಂಗೆ. ಸೀದಾ ನಿಂಗೇ ಕೊಡ್ಬೋದಿತ್ತು. ಆದ್ರೆ ನಿಂಗೆ ಅಕಸ್ಮಾತ್ ಆಗಿ ಈ ಕಾಗದ ಸಿಕ್ಕಾಗ, ನೀ ಖುಷಿ ಪಡಲಿ ಅಂತ, ಈ ಅಡ್ಡದಾರಿ...! ಅದೂ ಅಲ್ದೇ, ಸಂಜೆ ಈ ಅಚ್ಚರಿಯನ್ನ ಕಣ್ಣ ತುದಿಯಲ್ಲಿ ತೋರ್ಸ್ತಾ, ಬಾಗ್ಲು ತೆಗಿತ್ಯಲಾ, ಅದೊಂದು ಕ್ಷಣಕ್ಕೆ, ಇಂತಾ ನೂರು ಆಟ ಆಡ್ತಿನಿ ಕಣೆ...!
 ---
 ![Letter to lovely wife]({{ baseurl }}/public/img/articles-nallikayi-com-a-letter-to-lovely-wife.jpg)
 

@@ -60,3 +60,69 @@
     height: 50px;
     margin: 0 10px;
 }
+
+#mainbox{
+  font-family: inherit;
+  box-sizing: border-box;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  min-width: 300px;
+}
+
+
+.card{
+    width: 300px;
+    box-shadow: 0px 0px 1px #777;
+    border-radius: 2px;
+    margin: 20px;
+    text-align: center;
+    opacity: 0.9;
+    transition: 0.2s ease-in;
+}
+
+.card:hover {
+    box-shadow: 0px 0px 15px #aaa;
+    opacity: 1;
+}
+
+.card img {
+    border-radius: none;
+}
+.card h6 {
+    color: #777;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+
+
+.card-footer {
+    padding: 5px;
+    margin: 0;
+    border: none;
+}
+
+img.post-image-index {
+        margin-bottom: 0;
+}
+
+.post-excerpt {
+    font-size: 1em;
+    margin-bottom:0;
+    color: #383838;
+}
+
+.post-index-title {
+    border-bottom: 1px solid #eee;
+    margin-left: -5px;
+    margin-right: -5px;
+    padding-bottom:5px;
+    color: #383838;
+    font-size: 1.1em;
+}
+
+.article img {
+    border-radius: 5px;
+}
