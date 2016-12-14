@@ -27,21 +27,7 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 {% include rss-link.html %}
- 
-<script async>
-var cb = function() {
-var n = document.createElement('link'); n.rel = 'stylesheet';
-var o = document.createElement('link'); o.rel = 'stylesheet';
-n.href = '/css/main.css';
-o.href = 'https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css';
-var j = document.getElementsByTagName('head')[0]; j.parentNode.insertBefore(n, j);
-var k = document.getElementsByTagName('head')[0]; k.parentNode.insertBefore(o, k);
-};
-var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-webkitRequestAnimationFrame || msRequestAnimationFrame;
-if (raf) raf(cb);
-else window.addEventListener('load', cb);
- </script>
-<!--   <script>$("#input-id").rating();</script> -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   </body>
 </html>
