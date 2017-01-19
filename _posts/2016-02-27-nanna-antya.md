@@ -3,7 +3,7 @@ layout: post
 title: ನನ್ನ ಅಂತ್ಯ
 author: adarshk
 img: nanna-antya-adarsh-k.jpg
-description: ಅನುದಿನದ ಹುಡುಕಾಟಕ್ಕೆ ಕೊನೆ ನನ್ನ ಅಂತ್ಯ, ಅನುಗಾಲದ ಬೇಡಿಕೆಯ ಈಡೇರಿಸುವ ಅಂತ್ಯ, ಸಾಗುವ ನದಿಯು ಸೇರುವ ಅಂತ್ಯ. . .
+description: ಅನುದಿನದ ಹುಡುಕಾಟಕ್ಕೆ ಕೊನೆ ನನ್ನ ಅಂತ್ಯ, ಅನುಗಾಲದ ಬೇಡಿಕೆಯ ಈಡೇರಿಸುವ ಅಂತ್ಯ, ಸಾಗುವ ನದಿಯು ಸೇರುವ ಅಂತ್ಯ, ಸೊಗಸಾದ ಭಾವನೆಗೆ ಪ್ರೇರಣೆ ಅಂತ್ಯ, ಹಿತವಾದ ಹೂಕನಸ ಧೋರಣೆ ಅಂತ್ಯ. . .
 ---
 
 ![suryastamana by adarshk - nallikayi articles]({{ baseurl }}/public/img/nanna-antya-adarsh-k.jpg)
